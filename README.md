@@ -1,3 +1,7 @@
+# hello-world
+My first repository
+
+Making some changes to uderstand GitHub
 echo "# my-php-001" >> README.md
 
 git init
